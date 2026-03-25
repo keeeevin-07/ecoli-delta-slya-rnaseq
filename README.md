@@ -149,6 +149,14 @@ The MA plot showed:
 
 Several neighboring loci were regulated in the same direction, suggesting possible **co-regulated gene clusters or operon-like organization**.
 
+## Figures
+
+### PCA
+![PCA plot](docs/img/PCA.png)
+
+### MA plot
+![MA plot](docs/img/MAplot.png)
+
 ---
 
 ## Project structure
