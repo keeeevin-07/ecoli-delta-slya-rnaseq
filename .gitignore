@@ -1,0 +1,14 @@
+raw_data/
+trimmed/
+bam/
+index/
+logs/
+ref/
+fastqc_raw/
+fastqc_trimmed/
+multiqc_raw/
+multiqc_trimmed/
+fastp_reports/
+*.sam
+*.bam
+*.bai
