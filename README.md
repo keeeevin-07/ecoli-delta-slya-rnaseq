@@ -163,16 +163,10 @@ Several neighboring loci were regulated in the same direction, suggesting possib
 
 ```bash
 rna_seq_project/
-├── raw_data/
-├── trimmed/
-├── fastqc_raw/
-├── multiqc_raw/
-├── fastqc_trimmed/
-├── multiqc_trimmed/
-├── ref/
-├── index/
-├── bam/
-├── logs/
 ├── counts/
+├── docs/
+│   └── img/
 ├── results/
-└── scripts/
+├── scripts/
+├── README.md
+└── .gitignore
